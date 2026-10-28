@@ -1,0 +1,806 @@
+{
+  "region": "제주특별자치도",
+  "topic": "제주 카페·맛집",
+  "items": [
+    {
+      "name": "청춘이오란다",
+      "category": "음식점",
+      "description": "제주시에 위치한 음식점. 수제 오란다 과자가 대표 메뉴로, 바삭하면서 부드럽고 단맛이 은은합니다.",
+      "score": 100,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJu1inmjbjDDURaWteQ0-GEBo · 평점 5.0/5, 리뷰 279건 · 2026-10-28 조회"
+    },
+    {
+      "name": "lavarr",
+      "category": "카페",
+      "description": "서귀포시에 위치한 카페. 브런치 세트와 샌드위치가 대표 메뉴이며, 갤러리 같은 인테리어가 인기입니다.",
+      "score": 98,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ874AH4FTDDUR7-5psGqvppo · 평점 4.9/5, 리뷰 2,259건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Geumdot Seongsan Black Pork",
+      "category": "음식점",
+      "description": "서귀포시 성산읍에 위치한 흑돼지 구이 전문점. 두툼한 제주 흑돼지 구이를 직원이 테이블에서 직접 구워줍니다.",
+      "score": 98,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ38FMu-AVDTURKZQXwGgka2I · 평점 4.9/5, 리뷰 1,864건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Jaksan",
+      "category": "음식점",
+      "description": "제주시 애월읍에 위치한 구이(바비큐) 전문점. 흑돼지 구이가 대표 메뉴이며 김치찌개와 냉면을 곁들이기 좋습니다.",
+      "score": 98,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJeasNg1HxDDURj1BVLDIjZPk · 평점 4.9/5, 리뷰 1,755건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Suksungdo Aewol Branch",
+      "category": "음식점",
+      "description": "제주시 애월읍에 위치한 구이(바비큐) 전문점. 마블링 좋은 흑돼지 구이가 대표 메뉴이며 김치볶음밥과 김치찌개로 마무리합니다.",
+      "score": 98,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJiw5yajf1DDURVARlrKYqgbM · 평점 4.9/5, 리뷰 1,054건 · 2026-10-28 조회"
+    },
+    {
+      "name": "제주삼춘",
+      "category": "음식점",
+      "description": "제주시 조천읍에 위치한 구이(바비큐) 전문점. 직원이 구워주는 흑돼지 구이가 대표 메뉴입니다.",
+      "score": 98,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJEXE0uJkfDTURO9Yms1L51Kk · 평점 4.9/5, 리뷰 821건 · 2026-10-28 조회"
+    },
+    {
+      "name": "제주육로",
+      "category": "음식점",
+      "description": "제주시에 위치한 구이(바비큐) 전문점. 한우 구이와 맥주 세트가 대표 메뉴입니다.",
+      "score": 98,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJWXGaGg_7DDURdAY064hnsq0 · 평점 4.9/5, 리뷰 817건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Koriko Cafe Jeju Branch",
+      "category": "카페",
+      "description": "제주시 구좌읍에 위치한 카페. 고구마를 활용한 디저트와 제주 한정 음료, 베이커리가 대표 메뉴입니다.",
+      "score": 98,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJS_7tIAAbDTUR3Kwl2M5S5qg · 평점 4.9/5, 리뷰 638건 · 2026-10-28 조회"
+    },
+    {
+      "name": "제주해장국 노형드림타워점",
+      "category": "음식점",
+      "description": "제주시에 위치한 음식점. 흑돼지 해장국과 보쌈이 대표 메뉴이며 제육볶음이 반찬으로 함께 나옵니다.",
+      "score": 98,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJgZs_HAD7DDURn31gjzr425M · 평점 4.9/5, 리뷰 445건 · 2026-10-28 조회"
+    },
+    {
+      "name": "오늘도 화창 (Jeju Fine Cafe)",
+      "category": "카페",
+      "description": "제주시 구좌읍에 위치한 카페. 당근 케이크와 당근 주스, 청귤차, 라떼가 대표 메뉴입니다.",
+      "score": 98,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJUzmaru0XDTURuCP2kghmnL0 · 평점 4.9/5, 리뷰 382건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Charlie's",
+      "category": "음식점",
+      "description": "제주시 한림읍에 위치한 양식당. 해산물 파스타와 갈치 파스타, 마르게리타 피자가 대표 메뉴입니다.",
+      "score": 98,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJfbghMb9EDDURets5-J9DRmY · 평점 4.9/5, 리뷰 319건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Jejju",
+      "category": "음식점",
+      "description": "서귀포시에 위치한 퓨전 레스토랑. 연어·새우 회덮밥과 쭈꾸미 덮밥, 초밥 도시락이 대표 메뉴입니다.",
+      "score": 100,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJj2F9XJtVDDUR8_d-L2rXb2k · 평점 5.0/5, 리뷰 130건 · 2026-10-28 조회"
+    },
+    {
+      "name": "한담국수",
+      "category": "음식점",
+      "description": "제주시 애월읍에 위치한 음식점. 돼지 육수의 고기국수와 수육이 대표 메뉴입니다.",
+      "score": 98,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJY7rIZwD1DDUR1mtezq8hHzY · 평점 4.9/5, 리뷰 259건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Hyeopjae Gogi Bueok",
+      "category": "음식점",
+      "description": "제주시 한림읍에 위치한 한식당. 숯불 고기 구이가 대표 메뉴이며 협재 바다 전망과 함께 즐길 수 있습니다.",
+      "score": 98,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ8yNfLgphDDURpD8_71_c_WU · 평점 4.9/5, 리뷰 247건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Black Ranch",
+      "category": "음식점",
+      "description": "서귀포시에 위치한 음식점. 흑돼지 구이가 대표 메뉴이며 계란찜과 비빔국수를 곁들입니다.",
+      "score": 96,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ6aC6ORtDDDURd5kR8f0IsuE · 평점 4.8/5, 리뷰 2,308건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Haejigae Cafe",
+      "category": "카페",
+      "description": "제주시 애월읍에 위치한 카페. 섬세한 페이스트리와 케이크, 커피가 대표 메뉴입니다.",
+      "score": 96,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJkT_5s231DDURAxxjUhkTY8E · 평점 4.8/5, 리뷰 2,152건 · 2026-10-28 조회"
+    },
+    {
+      "name": "남매네흑돼지 서귀포점",
+      "category": "음식점",
+      "description": "서귀포시에 위치한 흑돼지 구이 전문점. 올레시장 안에서 다양한 부위의 제주 흑돼지 구이를 맛볼 수 있습니다.",
+      "score": 96,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJBeMu2MlTDDURjFlQyLkouqk · 평점 4.8/5, 리뷰 2,005건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Oleun (Orrrn)",
+      "category": "카페",
+      "description": "서귀포시 성산읍에 위치한 베이커리 카페. 성산 바다 전망과 함께 즐기는 베이커리와 브런치, 커피가 대표 메뉴입니다.",
+      "score": 96,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ2fuhIbUVDTURenCWA0obBLI · 평점 4.8/5, 리뷰 1,904건 · 2026-10-28 조회"
+    },
+    {
+      "name": "제주로운청해원",
+      "category": "음식점",
+      "description": "서귀포시 성산읍에 위치한 음식점. 구운 옥돔과 김치고등어조림, 성게미역국이 나오는 해산물 정식이 대표 메뉴입니다.",
+      "score": 96,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ96ZpS3wTDTUR_2sw0_tH9aQ · 평점 4.8/5, 리뷰 1,325건 · 2026-10-28 조회"
+    },
+    {
+      "name": "워크인커피바 성산점 (WALK IN COFFEE BAR)(济州岛咖啡美食店)",
+      "category": "카페",
+      "description": "서귀포시 성산읍에 위치한 베이커리 카페. 핸드드립 커피와 다양한 원두, 베이커리가 대표 메뉴입니다.",
+      "score": 98,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJS7PnnxsVDTURcws7jyU3wKw · 평점 4.9/5, 리뷰 203건 · 2026-10-28 조회"
+    },
+    {
+      "name": "중문그때그집 숙성 서귀포본점｜Jeju Black Pork Korean BBQ Geuttaegeojip｜済州黒豚韓国焼肉",
+      "category": "음식점",
+      "description": "서귀포시 중문에 위치한 음식점. 현장에서 구워주는 흑돼지 세트가 대표 메뉴입니다.",
+      "score": 96,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJF-cXnJBbDDURMQTaDfkuX74 · 평점 4.8/5, 리뷰 1,225건 · 2026-10-28 조회"
+    },
+    {
+      "name": "갈치관 애월해안도로점",
+      "category": "음식점",
+      "description": "제주시 애월읍에 위치한 해산물·횟집. 구이 갈치와 전복죽, 해산물 세트가 대표 메뉴입니다.",
+      "score": 96,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJFTrfWdH3DDURiSp0smqRamY · 평점 4.8/5, 리뷰 1,010건 · 2026-10-28 조회"
+    },
+    {
+      "name": "애월갈치 암행어사",
+      "category": "음식점",
+      "description": "제주시 애월읍에 위치한 음식점. 갈치구이와 갈치조림 세트가 대표 메뉴입니다.",
+      "score": 96,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJA3REq6X1DDURJXMRORyOHwQ · 평점 4.8/5, 리뷰 888건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Sungsan Haena Cafe",
+      "category": "카페",
+      "description": "서귀포시 성산읍에 위치한 카페. 에그타르트와 호박파이, 애플파이 등 디저트가 대표 메뉴입니다.",
+      "score": 98,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJoebDY4kVDTURXPJCqTEZqcU · 평점 4.9/5, 리뷰 163건 · 2026-10-28 조회"
+    },
+    {
+      "name": "올레주막",
+      "category": "음식점",
+      "description": "서귀포시에 위치한 음식점. 보리새우 미나리전이 대표 메뉴입니다.",
+      "score": 98,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ5bHP7uVTDDURTcQUrYtEfR0 · 평점 4.9/5, 리뷰 149건 · 2026-10-28 조회"
+    },
+    {
+      "name": "함덕고등어쌈밥",
+      "category": "음식점",
+      "description": "제주시 조천읍에 위치한 한식당. 김치고등어 구이와 쌈밥, 간장게장이 대표 메뉴입니다.",
+      "score": 96,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJR8EWwXofDTURsWTmdup3GV8 · 평점 4.8/5, 리뷰 399건 · 2026-10-28 조회"
+    },
+    {
+      "name": "제주 장수국수 노형본점",
+      "category": "음식점",
+      "description": "제주시에 위치한 국수 전문점. 돼지 수육 국수와 만두, 흑임자 김치가 대표 메뉴입니다.",
+      "score": 96,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ81RASvX7DDURtaWdXRKldNA · 평점 4.8/5, 리뷰 360건 · 2026-10-28 조회"
+    },
+    {
+      "name": "제주 우대",
+      "category": "음식점",
+      "description": "제주시에 위치한 음식점. 소고기 요리가 대표 메뉴이며 서비스로 소고기무국이 나옵니다.",
+      "score": 98,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJDXeaDgD7DDUR5VliZEJTVGo · 평점 4.9/5, 리뷰 133건 · 2026-10-28 조회"
+    },
+    {
+      "name": "난춘식당 제주협재본점",
+      "category": "음식점",
+      "description": "제주시 한림읍에 위치한 국수 전문점. 푸짐한 고명을 올린 국수가 대표 메뉴입니다.",
+      "score": 98,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJsbLdSSFhDDURFgkD704-zN0 · 평점 4.9/5, 리뷰 125건 · 2026-10-28 조회"
+    },
+    {
+      "name": "하여금 흑돼지 전문점",
+      "category": "음식점",
+      "description": "제주시에 위치한 음식점. 두툼하게 썬 제주 흑돼지 모둠 구이가 대표 메뉴입니다.",
+      "score": 96,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJp9mW82T7DDUR9X5WiZYEwaI · 평점 4.8/5, 리뷰 298건 · 2026-10-28 조회"
+    },
+    {
+      "name": "금돈 흑돼지",
+      "category": "음식점",
+      "description": "제주시에 위치한 한식당. 두툼하게 구운 제주 흑돼지가 대표 메뉴입니다.",
+      "score": 96,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJCT5JWYL7DDURBCrobydk58g · 평점 4.8/5, 리뷰 277건 · 2026-10-28 조회"
+    },
+    {
+      "name": "금돈가 제주 애월해안도로본점",
+      "category": "음식점",
+      "description": "제주시 애월읍에 위치한 구이(바비큐) 전문점. 흑돼지 구이가 대표 메뉴입니다.",
+      "score": 96,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJxYVnty3xDDURYczCEuxWJZQ · 평점 4.8/5, 리뷰 266건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Cheong Su Dang Bakery Cafe",
+      "category": "카페",
+      "description": "제주시 애월읍에 위치한 카페. 바다 전망과 함께 즐기는 베이커리와 커피가 대표 메뉴입니다.",
+      "score": 96,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJHRXLVwD1DDURUF5Fkmu3aa4 · 평점 4.8/5, 리뷰 219건 · 2026-10-28 조회"
+    },
+    {
+      "name": "제주본연 흑돼지 성산본점",
+      "category": "음식점",
+      "description": "서귀포시 성산읍에 위치한 흑돼지 구이 전문점. 흑돼지 구이와 신선한 밑반찬이 대표 메뉴입니다.",
+      "score": 98,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ0QPoqL4VDTUR6WrE1G2YmBI · 평점 4.9/5, 리뷰 102건 · 2026-10-28 조회"
+    },
+    {
+      "name": "함덕고갈치",
+      "category": "음식점",
+      "description": "제주시 조천읍에 위치한 해산물·횟집. 갈치구이와 고등어구이, 김치찌개가 대표 메뉴입니다.",
+      "score": 98,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJlx3sBwAfDTURVm37gF0tLyc · 평점 4.9/5, 리뷰 102건 · 2026-10-28 조회"
+    },
+    {
+      "name": "물고기자리",
+      "category": "음식점",
+      "description": "서귀포시 성산읍에 위치한 해산물·횟집. 구운 고등어와 고구마·새우 튀김이 포함된 해산물 코스가 대표 메뉴입니다.",
+      "score": 96,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ3x4P4hgVDTURcnYy5tRqpTQ · 평점 4.8/5, 리뷰 198건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Gozip Dol Wooluck Jungmun",
+      "category": "음식점",
+      "description": "서귀포시 중문에 위치한 음식점. 우럭조림 등 푸짐한 해산물 세트가 대표 메뉴입니다.",
+      "score": 94,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJI2pq28VbDDURAL19cNuwYFE · 평점 4.7/5, 리뷰 8,372건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Gozip Dol Wooluck Hamdeok",
+      "category": "음식점",
+      "description": "제주시 조천읍에 위치한 해산물·횟집. 전복과 해산물이 포함된 생선 세트가 대표 메뉴입니다.",
+      "score": 94,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ00PR6XYfDTURlkix8j-OnkQ · 평점 4.7/5, 리뷰 3,566건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Seogwipean Bakery",
+      "category": "카페",
+      "description": "서귀포시 성산읍에 위치한 베이커리 카페. 바다가 보이는 베이커리 카페로, 땅콩라떼와 빵이 대표 메뉴입니다.",
+      "score": 94,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJw6nBTRoTDTUR0ksyvvG-c2A · 평점 4.7/5, 리뷰 1,620건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Ieodon",
+      "category": "음식점",
+      "description": "서귀포시 성산읍에 위치한 구이(바비큐) 전문점. 흑돼지 구이와 해물탕이 대표 메뉴입니다.",
+      "score": 96,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJbWXqf2IVDTURnoM6CLgEmsc · 평점 4.8/5, 리뷰 157건 · 2026-10-28 조회"
+    },
+    {
+      "name": "고도칸 애월흑돼지",
+      "category": "음식점",
+      "description": "제주시 애월읍에 위치한 흑돼지 구이 전문점. 흑돼지 오겹살 구이가 대표 메뉴입니다.",
+      "score": 96,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ42vGbQ71DDURACFobnH2B8A · 평점 4.8/5, 리뷰 150건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Coffee Finder",
+      "category": "카페",
+      "description": "제주시에 위치한 카페. 스페셜티 원두로 내린 바닐라 라떼와 아메리카노가 대표 메뉴입니다.",
+      "score": 94,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ4apxS6_8DDURNArV40vCwhc · 평점 4.7/5, 리뷰 569건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Mirdam",
+      "category": "카페",
+      "description": "제주시에 위치한 카페. 제주 말차 아인슈페너와 고구마 라떼가 대표 메뉴이며 카페 고양이도 인기입니다.",
+      "score": 96,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ5c7RnEn7DDUR3ZsKVgwOgoY · 평점 4.8/5, 리뷰 138건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Hwalowi",
+      "category": "음식점",
+      "description": "제주시 조천읍에 위치한 구이(바비큐) 전문점. 흑돼지 구이가 대표 메뉴이며 볶음밥과 된장찌개를 곁들입니다.",
+      "score": 94,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJj7d5WM8fDTURKOTqBMmAV84 · 평점 4.7/5, 리뷰 489건 · 2026-10-28 조회"
+    },
+    {
+      "name": "도돈 협재흑돼지 – Jeju Black Pork BBQ",
+      "category": "음식점",
+      "description": "제주시 한림읍에 위치한 흑돼지 구이 전문점. 목살·오겹살 세트에 볶음밥을 곁들이는 흑돼지 구이가 대표 메뉴입니다.",
+      "score": 96,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJC_z2KQBhDDURxl4UNfHnO2w · 평점 4.8/5, 리뷰 119건 · 2026-10-28 조회"
+    },
+    {
+      "name": "제주일도 흑돼지 성산본점",
+      "category": "음식점",
+      "description": "서귀포시 성산읍에 위치한 흑돼지 구이 전문점. 두툼한 제주 흑돼지 구이가 대표 메뉴입니다.",
+      "score": 94,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ1Rhar98TDTURAP3fuAFlBkY · 평점 4.7/5, 리뷰 327건 · 2026-10-28 조회"
+    },
+    {
+      "name": "아방국수",
+      "category": "음식점",
+      "description": "서귀포시에 위치한 한식당. 고기국수와 돼지국밥이 대표 메뉴입니다.",
+      "score": 96,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ8x1cU_JTDDURyWk5j8XL1XE · 평점 4.8/5, 리뷰 104건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Harakeke Jeju",
+      "category": "카페",
+      "description": "서귀포시에 위치한 카페. 일몰을 보며 마시는 스무디와 요거트 음료가 대표 메뉴입니다.",
+      "score": 94,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJGwRCnWlTDDURVvWUHrHHFsw · 평점 4.7/5, 리뷰 256건 · 2026-10-28 조회"
+    },
+    {
+      "name": "함덕연옥",
+      "category": "음식점",
+      "description": "제주시 조천읍에 위치한 한식당. 전복밥과 돼지고기 요리, 간장게장이 대표 메뉴입니다.",
+      "score": 94,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJBXUXDwkfDTUR_nczQa0urVk · 평점 4.7/5, 리뷰 214건 · 2026-10-28 조회"
+    },
+    {
+      "name": "미포집 제주 애월점",
+      "category": "음식점",
+      "description": "제주시 애월읍에 위치한 한식당. 양념 해산물과 미역국이 곁들여지는 한식 정식이 대표 메뉴입니다.",
+      "score": 96,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJmzILC4nxDDURo8ML2hG-fEI · 평점 4.8/5, 리뷰 82건 · 2026-10-28 조회"
+    },
+    {
+      "name": "국수인가갈치인가",
+      "category": "음식점",
+      "description": "서귀포시 성산읍에 위치한 음식점. 갈치와 국수를 함께 맛보는 세트 메뉴가 대표 메뉴입니다.",
+      "score": 96,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJv9LJXSETDTURIB3A5QWGm6A · 평점 4.8/5, 리뷰 81건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Ppolsaljip",
+      "category": "음식점",
+      "description": "서귀포시에 위치한 구이(바비큐) 전문점. 다양한 부위의 흑돼지 구이가 대표 메뉴입니다.",
+      "score": 92,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJcQ_BVZxTDDURIbWLBluYlTI · 평점 4.6/5, 리뷰 1,470건 · 2026-10-28 조회"
+    },
+    {
+      "name": "BEECAVE(비케이브) Jeju Cave Cafe",
+      "category": "카페",
+      "description": "제주시 조천읍에 위치한 카페. 시그니처 비케이브 라떼와 아이스크림 크로플이 대표 메뉴입니다.",
+      "score": 94,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJlRM1beUbDTURdJio6S0glBg · 평점 4.7/5, 리뷰 130건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Childonga (Hamdeok Branch)",
+      "category": "음식점",
+      "description": "제주시 조천읍에 위치한 구이(바비큐) 전문점. 두툼한 흑돼지 구이와 고사리 반찬이 대표 메뉴입니다.",
+      "score": 98,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJN3d3KwAfDTURRu00Mfy6UhA · 평점 4.9/5, 리뷰 46건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Nandrebadang",
+      "category": "음식점",
+      "description": "서귀포시에 위치한 구이(바비큐) 전문점. 숯불에 구운 흑돼지 오겹살이 대표 메뉴입니다.",
+      "score": 92,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJH2RXXL9EDDURcpLx6IQ22M4 · 평점 4.6/5, 리뷰 940건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Cafe OOO (Out of Ordinary)",
+      "category": "카페",
+      "description": "서귀포시 성산읍에 위치한 카페. 고구마 라떼와 청귤차, 페이스트리가 대표 메뉴입니다.",
+      "score": 92,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJN7FxOZcTDTURG0lXGuO3Q7Q · 평점 4.6/5, 리뷰 571건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Dongjin Sikdang",
+      "category": "음식점",
+      "description": "제주시에 위치한 국수 전문점. 고기국수와 멸치육수를 곁들인 비빔국수가 대표 메뉴입니다.",
+      "score": 92,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJux8x2k7jDDUR3dhlpFkdOe0 · 평점 4.6/5, 리뷰 513건 · 2026-10-28 조회"
+    },
+    {
+      "name": "더한근",
+      "category": "음식점",
+      "description": "제주시에 위치한 구이(바비큐) 전문점. 흑돼지 구이가 대표 메뉴입니다.",
+      "score": 96,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJf6oY_f36DDUR52G8H03CPos · 평점 4.8/5, 리뷰 59건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Fritz Coffee Company Jeju Seongsan",
+      "category": "카페",
+      "description": "서귀포시 성산읍에 위치한 카페. 스페셜티 라떼와 우도 땅콩 오트 음료, 베이커리가 대표 메뉴입니다.",
+      "score": 92,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJRe2bPzoVDTURAcrLvCa8ZTw · 평점 4.6/5, 리뷰 375건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Coffee Sketch",
+      "category": "카페",
+      "description": "서귀포시 안덕면에 위치한 카페. 용머리해안 입구에서 즐기는 커피 음료가 대표 메뉴입니다.",
+      "score": 92,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJyWMWJp9DDDURUsGBo8MLXig · 평점 4.6/5, 리뷰 341건 · 2026-10-28 조회"
+    },
+    {
+      "name": "해물오빠 제주 모슬포 본점",
+      "category": "음식점",
+      "description": "서귀포시 대정읍에 위치한 해산물·횟집. 쪄서 내는 전복·굴·새우 해산물 모둠이 대표 메뉴입니다.",
+      "score": 98,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ-b5fBQVpDDURECsp_G7bZog · 평점 4.9/5, 리뷰 37건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Leone Pizzeria",
+      "category": "음식점",
+      "description": "서귀포시에 위치한 이탈리안 레스토랑. 마르게리타 피자와 볼로네제 스파게티가 대표 메뉴입니다.",
+      "score": 94,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ8ZV_HXhTDDUROiyKmR1R99I · 평점 4.7/5, 리뷰 85건 · 2026-10-28 조회"
+    },
+    {
+      "name": "SLOWBOAT Atelier",
+      "category": "카페",
+      "description": "제주시 애월읍에 위치한 카페. 직접 로스팅한 블렌드 커피와 핸드드립이 대표 메뉴입니다.",
+      "score": 92,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJNUjnbrfxDDUR9rG9f3kyY80 · 평점 4.6/5, 리뷰 255건 · 2026-10-28 조회"
+    },
+    {
+      "name": "성산일출봉 해일리 베이커리 카페",
+      "category": "카페",
+      "description": "서귀포시 성산읍에 위치한 카페. 땅콩 풍미의 해일리 커피와 아침 식사 메뉴가 대표 메뉴입니다.",
+      "score": 92,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ_R20Ip4VDTURp-AxW5qnWk0 · 평점 4.6/5, 리뷰 225건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Suma",
+      "category": "카페",
+      "description": "서귀포시 성산읍에 위치한 카페. 브라운 헤이즈와 서머 라떼, 케이크가 대표 메뉴입니다.",
+      "score": 92,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJMyGLCr4UDTUR7r3zsPXBMgI · 평점 4.6/5, 리뷰 209건 · 2026-10-28 조회"
+    },
+    {
+      "name": "가는곶 세화",
+      "category": "카페",
+      "description": "제주시 구좌읍에 위치한 카페. 빵과 페이스트리, 케이크, 커피가 대표 메뉴입니다.",
+      "score": 92,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJtaSn8J8XDTUR41ne-rVsptY · 평점 4.6/5, 리뷰 176건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Paik’s Coffee",
+      "category": "카페",
+      "description": "제주시 조천읍에 위치한 카페. 아이스 바닐라 라떼 등 합리적인 가격의 커피가 대표 메뉴입니다.",
+      "score": 92,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJV_KcKtwfDTUR_cqZXnBj2nk · 평점 4.6/5, 리뷰 163건 · 2026-10-28 조회"
+    },
+    {
+      "name": "HallasanAraeChutmaeul (First Village Under the Hallasan)",
+      "category": "음식점",
+      "description": "서귀포시 표선면에 위치한 한식당. 메밀 비빔국수 등 메밀 요리가 대표 메뉴입니다.",
+      "score": 92,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJEUCmL4wPDTURSo8GYnS_Aug · 평점 4.6/5, 리뷰 150건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Under the Dam (Dam-Arae)",
+      "category": "음식점",
+      "description": "제주시에 위치한 한식당. 2인 나눔 메뉴와 돼지고기·가지 요리, 신선한 해산물이 대표 메뉴입니다.",
+      "score": 88,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJPTp15fD7DDURYY7JO7gzGDI · 평점 4.4/5, 리뷰 291건 · 2026-10-28 조회"
+    },
+    {
+      "name": "협재갈치전문점 운치",
+      "category": "음식점",
+      "description": "제주시 한림읍에 위치한 한식당. 갈치조림 2인 세트가 대표 메뉴입니다.",
+      "score": 94,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJAajbXrNhDDURnCQXUB-SzxI · 평점 4.7/5, 리뷰 59건 · 2026-10-28 조회"
+    },
+    {
+      "name": "존맛식당",
+      "category": "음식점",
+      "description": "제주시에 위치한 음식점. 문어 요리 등 소수의 메뉴만 판매하는 곳으로, 문어 요리가 대표 메뉴입니다.",
+      "score": 92,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ3UBWTvAfDTURKOsswT6vHbI · 평점 4.6/5, 리뷰 106건 · 2026-10-28 조회"
+    },
+    {
+      "name": "해지개더블랙 카페",
+      "category": "카페",
+      "description": "제주시 애월읍에 위치한 카페. 참깨 라떼와 망고 요거트 크루아상이 대표 메뉴입니다.",
+      "score": 92,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ5R3MfKz1DDUR4ldeJSyLcmo · 평점 4.6/5, 리뷰 102건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Moseulpo Jeongmiso",
+      "category": "카페",
+      "description": "서귀포시에 위치한 카페. 빙수가 대표 메뉴이며 옛 정미소 건물의 분위기를 살린 카페입니다.",
+      "score": 94,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJFVDnF4BpDDURCSiJY_whceU · 평점 4.7/5, 리뷰 49건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Miyoung's Sashimi",
+      "category": "음식점",
+      "description": "서귀포시 대정읍에 위치한 해산물·횟집. 고등어회와 고등어구이 등 고등어 요리 세트가 대표 메뉴입니다.",
+      "score": 90,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJAzVlLPdpDDURwtrd3yMUWnM · 평점 4.5/5, 리뷰 2,665건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Janginuijip",
+      "category": "음식점",
+      "description": "제주시 애월읍에 위치한 만두 전문점. 만두 요리가 대표 메뉴입니다.",
+      "score": 90,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJdwHdps71DDURi_FxVYc1ARU · 평점 4.5/5, 리뷰 2,164건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Jeju Gwanghae Aewol Main Branch",
+      "category": "음식점",
+      "description": "제주시 애월읍에 위치한 한식당. 갈치 요리와 전복, 게장이 포함된 해산물 정식이 대표 메뉴입니다.",
+      "score": 90,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJB0t1zSfxDDURnYEUbuKVTWs · 평점 4.5/5, 리뷰 2,162건 · 2026-10-28 조회"
+    },
+    {
+      "name": "금복식당",
+      "category": "음식점",
+      "description": "제주시에 위치한 국수 전문점. 고기국수와 멸치육수 국수, 김밥이 대표 메뉴입니다.",
+      "score": 92,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJW5IjpHDjDDURae64p2s95XM · 평점 4.6/5, 리뷰 84건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Jejudang Bakery Café",
+      "category": "카페",
+      "description": "제주시 애월읍에 위치한 카페. 빵과 페이스트리, 음료를 즐길 수 있는 대형 베이커리 카페입니다.",
+      "score": 90,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJkViqegBZDDURloZmDhwAIZ4 · 평점 4.5/5, 리뷰 670건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Suksungdo Hamdeok Branch",
+      "category": "음식점",
+      "description": "제주시 조천읍에 위치한 구이(바비큐) 전문점. 숙성 흑돼지 구이가 대표 메뉴입니다.",
+      "score": 90,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJe7qQmagfDTURuly938S9ZQY · 평점 4.5/5, 리뷰 489건 · 2026-10-28 조회"
+    },
+    {
+      "name": "김녕 윤슬",
+      "category": "음식점",
+      "description": "제주시 구좌읍에 위치한 음식점. 바삭한 돈가스와 카레, 새우튀김이 대표 메뉴입니다.",
+      "score": 94,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJS3VfMhgZDTURqeHMM_GoHG8 · 평점 4.7/5, 리뷰 40건 · 2026-10-28 조회"
+    },
+    {
+      "name": "달이 뜨는 식탁",
+      "category": "음식점",
+      "description": "제주시 구좌읍에 위치한 음식점. 돈가스와 해산물 스파게티가 대표 메뉴입니다.",
+      "score": 90,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJGYQ78YIXDTURsKvJ_PWfQlA · 평점 4.5/5, 리뷰 390건 · 2026-10-28 조회"
+    },
+    {
+      "name": "성산갈치맛집",
+      "category": "음식점",
+      "description": "서귀포시 성산읍에 위치한 한식당. 갈치구이와 생게장이 대표 메뉴입니다.",
+      "score": 90,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJJQHLbncVDTURosPrvr5tnaM · 평점 4.5/5, 리뷰 365건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Semo",
+      "category": "음식점",
+      "description": "제주시 구좌읍에 위치한 음식점. 주문 즉시 만드는 삼각김밥과 당근 주스가 대표 메뉴입니다.",
+      "score": 92,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ-XjPvesXDTURTfEoR1YZWYM · 평점 4.6/5, 리뷰 68건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Bulteok Jeong Sikdang",
+      "category": "음식점",
+      "description": "제주시에 위치한 음식점. 저녁 코스 메뉴가 대표 메뉴입니다.",
+      "score": 90,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJofkckx4PDTURd1SlHiqVVqg · 평점 4.5/5, 리뷰 214건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Navi Garden",
+      "category": "카페",
+      "description": "서귀포시 대정읍에 위치한 카페. 직접 로스팅한 원두로 내린 핸드드립 커피가 대표 메뉴입니다.",
+      "score": 90,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJmWc6mWpoDDURBqVt9pgNMq4 · 평점 4.5/5, 리뷰 171건 · 2026-10-28 조회"
+    },
+    {
+      "name": "누리프렌즈카페인제주",
+      "category": "카페",
+      "description": "제주시에 위치한 카페. 베이커리와 커피를 즐길 수 있는 대형 카페 겸 소품숍입니다.",
+      "score": 92,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJnUxrH-33DDURtEV-qVYPGbk · 평점 4.6/5, 리뷰 53건 · 2026-10-28 조회"
+    },
+    {
+      "name": "빗소리",
+      "category": "음식점",
+      "description": "제주시 구좌읍에 위치한 일식당. 냉소바와 채소튀김 세트, 유부초밥이 대표 메뉴입니다.",
+      "score": 90,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJa8Nv5K0ZDTUR5oBIwrUz2uE · 평점 4.5/5, 리뷰 104건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Bora Jibung",
+      "category": "카페",
+      "description": "제주시에 위치한 카페. 일본식 바스크 치즈케이크가 대표 메뉴입니다.",
+      "score": 90,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJYd64_IYfDTURZ1ddBpGyXtQ · 평점 4.5/5, 리뷰 101건 · 2026-10-28 조회"
+    },
+    {
+      "name": "김녕미항",
+      "category": "음식점",
+      "description": "제주시 구좌읍에 위치한 음식점. 광어회와 국수 등 광어 요리가 대표 메뉴입니다.",
+      "score": 90,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ7cjdtA0ZDTURWO3yDNwergM · 평점 4.5/5, 리뷰 93건 · 2026-10-28 조회"
+    },
+    {
+      "name": "협재리식당",
+      "category": "음식점",
+      "description": "제주시 한림읍에 위치한 한식당. 옥돔·갈치·고등어 구이와 제육볶음이 대표 메뉴입니다.",
+      "score": 90,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJLaIQ3H9hDDUR_JuXv3EVgUU · 평점 4.5/5, 리뷰 59건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Youdong Coffee",
+      "category": "카페",
+      "description": "서귀포시에 위치한 카페. 로스팅 단계를 고를 수 있는 라떼와 스페셜티 커피가 대표 메뉴입니다.",
+      "score": 88,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJe6UTop9TDDURasA2YAnDMQQ · 평점 4.4/5, 리뷰 1,812건 · 2026-10-28 조회"
+    },
+    {
+      "name": "전망좋은횟집&흑돼지 성산본점",
+      "category": "음식점",
+      "description": "서귀포시 성산읍에 위치한 해산물·횟집. 회 세트와 매운탕, 흑돼지가 대표 메뉴입니다.",
+      "score": 88,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJHxuqApYUDTURmpqVr23aYL4 · 평점 4.4/5, 리뷰 1,695건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Cafe Lucia’s",
+      "category": "카페",
+      "description": "서귀포시 안덕면에 위치한 카페. 달콤한 빵과 짭짤한 빵, 바다 전망 브런치가 대표 메뉴입니다.",
+      "score": 88,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJcRXvpb1EDDURul579pj2XIE · 평점 4.4/5, 리뷰 1,277건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Geuriunbada Seongsanpo",
+      "category": "음식점",
+      "description": "서귀포시 성산읍에 위치한 음식점. 고등어회·구이와 전복성게미역국, 갈치 요리가 대표 메뉴입니다.",
+      "score": 88,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ0Z16U-oUDTURUO8mxd_V9bc · 평점 4.4/5, 리뷰 925건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Hueilot",
+      "category": "카페",
+      "description": "서귀포시 안덕면에 위치한 카페. 쑥 케이크와 설록·우도 땅콩 라떼, 페이스트리가 대표 메뉴입니다.",
+      "score": 88,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ8S_5EutFDDURhN2E0Ycb4BA · 평점 4.4/5, 리뷰 839건 · 2026-10-28 조회"
+    },
+    {
+      "name": "SooNoolEum",
+      "category": "음식점",
+      "description": "서귀포시 대정읍에 위치한 음식점. 방어회와 보말성게국, 고등어 세트가 대표 메뉴입니다.",
+      "score": 88,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJ1-Hr0fBpDDURH5TPeXUFm2k · 평점 4.4/5, 리뷰 820건 · 2026-10-28 조회"
+    },
+    {
+      "name": "도민상회본점 제주한림협재흑돼지",
+      "category": "음식점",
+      "description": "제주시 한림읍에 위치한 흑돼지 구이 전문점. 직원이 구워주는 협재 흑돼지 구이가 대표 메뉴입니다.",
+      "score": 88,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJQWmhzHlgDDURLgl3T4cV2WE · 평점 4.4/5, 리뷰 716건 · 2026-10-28 조회"
+    },
+    {
+      "name": "VIEWST",
+      "category": "카페",
+      "description": "서귀포시 안덕면에 위치한 카페. 아인슈페너와 스위트콘 케이크, 딸기 화산 라떼가 대표 메뉴입니다.",
+      "score": 88,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJS6Ev7HpDDDURfxHQu8jX9S8 · 평점 4.4/5, 리뷰 698건 · 2026-10-28 조회"
+    },
+    {
+      "name": "Cafe Noeully",
+      "category": "카페",
+      "description": "제주시 애월읍에 위치한 카페. 온실 같은 공간에서 즐기는 커피와 식사 메뉴가 대표 메뉴입니다.",
+      "score": 88,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJvcMkEvD3DDUR4ZJAuAEGV2I · 평점 4.4/5, 리뷰 683건 · 2026-10-28 조회"
+    },
+    {
+      "name": "바다는 김녕",
+      "category": "카페",
+      "description": "제주시 구좌읍에 위치한 카페. 샐러드 등 브런치와 커피, 차가 대표 메뉴입니다.",
+      "score": 90,
+      "selected": false,
+      "source": "Google Maps(Google Places) https://www.google.com/maps/place/?q=place_id:ChIJXaXjmrwZDTURp6eZTjXTQ1c · 평점 4.5/5, 리뷰 43건 · 2026-10-28 조회"
+    }
+  ]
+}
